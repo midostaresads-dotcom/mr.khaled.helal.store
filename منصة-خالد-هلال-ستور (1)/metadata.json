@@ -1,0 +1,13 @@
+{
+  "name": "منصة خالد هلال ستور",
+  "description": "منصة تجارية إلكترونية متكاملة لبيع وشراء المذكرات والملخصات التعليمية لمستر خالد هلال، خبير الكيمياء والعلوم.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered chatbot",
+    "E-commerce",
+    "Real-time chat",
+    "Admin Dashboard"
+  ]
+}
